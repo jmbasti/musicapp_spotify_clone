@@ -1,0 +1,10 @@
+export const FETCH_SONGS = 'FETCH_SONGS';
+export const FETCH_SONG = 'FETCH_SONG';
+export const NEW_RELEASE = 'NEW_RELEASE';
+export const FETCH_ALBUM_SONGS = 'FETCH_ALBUM_SONGS';
+export const PLAY_SONG = 'PLAY_SONG';
+export const MUTE_SONG = 'MUTE_SONG';
+export const SHOW_POPMENU = 'SHOW_POPMENU';
+export const HOVER_ICONS = 'HOVER_ICONS';
+export const SHUFFLE = 'SHUFFLE';
+export const REPEAT = 'REPEAT';
